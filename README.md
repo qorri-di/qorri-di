@@ -6,7 +6,6 @@
 ### Check out my blog:point_right: [Click Here](https://www.qorri-di.com/)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qorri-di&label=Profile%20views&color=0e75b6&style=flat"/> </p>
-![Banner](https://github.com/qorri-di/qorri-di)
 
 Here are some ideas to get you started:
 
