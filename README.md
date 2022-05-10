@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there <img width="20" height="20" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">, welcome to my profile.
+
+---
+<h1 align="center">I'm Qorri Dwi Istajib</h1>
 
 <!--
 **qorri-di/qorri-di** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
