@@ -3,9 +3,11 @@
 ---
 <h1 align="center">I'm Qorri Dwi Istajib</h1>
 
-<!--
-**qorri-di/qorri-di** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+### Check out my blog:point_right: [Click Here](https://www.qorri-di.com/)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=qorri-di&label=Profile%20views&color=0e75b6&style=flat"/> </p>
+![Banner](https://github.com/qorri-di/qorri-di)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
