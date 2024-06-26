@@ -1,7 +1,7 @@
 ### Hi there <img width="20" height="20" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">, welcome to my profile.
 
 ---
-<h1 align="center">I'm Qorri Dwi Istajib</h1>
+<h1 align="center">I'm Qorri DI</h1>
 
 ### Check out my blog:point_right: [Click Here](https://www.qorri-di.com/)
 
